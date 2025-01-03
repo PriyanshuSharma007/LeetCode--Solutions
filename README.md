@@ -103,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
