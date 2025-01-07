@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0792-binary-search) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bit Manipulation
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -114,18 +117,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Backtracking
 |  |
