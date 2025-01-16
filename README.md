@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0006-zigzag-conversion) |
+| [0065-valid-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0065-valid-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
