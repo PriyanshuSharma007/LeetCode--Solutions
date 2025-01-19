@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0118-pascals-triangle) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0065-valid-number) |
 ## Binary Indexed Tree
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0051-n-queens) |
 ## Matrix
