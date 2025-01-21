@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0065-valid-number) |
@@ -166,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
