@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0792-binary-search) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Bit Manipulation
