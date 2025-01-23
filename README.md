@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0152-maximum-product-subarray) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0152-maximum-product-subarray) |
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
 ## Counting
@@ -186,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
 <!---LeetCode Topics End-->
