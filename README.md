@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1972-rotating-the-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
