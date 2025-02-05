@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0229-majority-element-ii) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Simulation
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0065-valid-number) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Binary Indexed Tree
 |  |
 | ------- |
