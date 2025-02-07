@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union Find
 |  |
 | ------- |
