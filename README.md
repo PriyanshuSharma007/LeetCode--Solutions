@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0268-missing-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0229-majority-element-ii) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
 | ------- |
