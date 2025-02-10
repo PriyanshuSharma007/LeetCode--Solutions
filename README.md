@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3447-clear-digits) |
 ## Union Find
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0065-valid-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3447-clear-digits) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [3447-clear-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
