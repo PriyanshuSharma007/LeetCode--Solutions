@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0229-majority-element-ii) |
+| [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0065-valid-number) |
+| [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3447-clear-digits) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0051-n-queens) |
+| [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
