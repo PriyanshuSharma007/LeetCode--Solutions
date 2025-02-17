@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0792-binary-search) |
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0051-n-queens) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
 |  |
