@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2434-design-a-number-container-system) |
@@ -282,10 +283,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
