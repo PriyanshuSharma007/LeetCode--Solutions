@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1972-rotating-the-box](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1972-rotating-the-box) |
+| [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
