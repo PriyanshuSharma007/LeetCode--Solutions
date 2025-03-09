@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0055-jump-game) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0051-n-queens) |
 | [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
