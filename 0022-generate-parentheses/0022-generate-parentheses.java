@@ -19,5 +19,5 @@ class Solution {
             recurse(res, left, right + 1, s + ")", n);
         }
     }
-}
 	
+}
