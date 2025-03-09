@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0055-jump-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0229-majority-element-ii) |
