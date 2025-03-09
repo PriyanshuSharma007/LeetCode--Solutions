@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2388-replace-elements-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2107-find-unique-binary-string) |
+| [2388-replace-elements-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2388-replace-elements-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
