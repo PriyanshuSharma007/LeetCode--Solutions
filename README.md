@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2721-sum-of-distances](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2721-sum-of-distances) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
