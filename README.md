@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2721-sum-of-distances](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2721-sum-of-distances) |
+| [3643-zero-array-transformation-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3731-sum-of-variable-length-subarrays) |
 ## String
 |  |
