@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1972-rotating-the-box) |
 | [2107-find-unique-binary-string](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2388-replace-elements-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2388-replace-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2434-design-a-number-container-system) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3447-clear-digits) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Number Theory
@@ -429,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
