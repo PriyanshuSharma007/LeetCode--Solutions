@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1972-rotating-the-box) |
 | [2107-find-unique-binary-string](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3430-count-days-without-meetings](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3430-count-days-without-meetings) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1972-rotating-the-box](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1972-rotating-the-box) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
