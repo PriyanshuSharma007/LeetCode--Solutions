@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2690-house-robber-iv) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3430-count-days-without-meetings) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Prefix Sum
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1972-rotating-the-box](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1972-rotating-the-box) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2434-design-a-number-container-system](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Greedy
 |  |
@@ -415,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
