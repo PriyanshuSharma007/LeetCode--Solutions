@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2721-sum-of-distances](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2721-sum-of-distances) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Divide and Conquer
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -386,12 +390,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2530-minimize-maximum-of-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2530-minimize-maximum-of-array) |
+| [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0042-trapping-rain-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Design
 |  |
 | ------- |
@@ -441,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
 |  |
 | ------- |
