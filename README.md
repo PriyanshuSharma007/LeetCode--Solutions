@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0051-n-queens) |
+| [0494-target-sum](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/PriyanshuSharma007/LeetCode--Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
